@@ -21,3 +21,5 @@ Jvm args
 
 Note use Cds and shared code soaces for the extreme fps optimization which gives way more fos but reqires prior setup
 for this search on google or use ai as it is trivial just rember that the filepath of the jsa has to specified.
+
+add avaritia and forbidden and arcanus for more content
