@@ -24,7 +24,7 @@ for this search on google or use ai as it is trivial just rember that the filepa
 
 add avaritia and forbidden and arcanus for more content
 
-curseforge only mods (0.6v)
+curseforge only mods (0.7v)
 Ars Zero
 Ars Elemental
 CAD Editor
