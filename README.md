@@ -32,7 +32,9 @@ AllTheLeaks
 Connectivity
 Yammo
 Cupboard
+Toms storage star optimized 
 
-mod updater moxrinth
+
+mod updater modrinth
 KrisTC Modrinth Pack Version Updater.
 just upload mrpack and get modlist with current and target versions
