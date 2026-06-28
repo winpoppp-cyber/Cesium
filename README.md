@@ -24,12 +24,11 @@ for this search on google or use ai as it is trivial just rember that the filepa
 
 add avaritia and forbidden and arcanus for more content
 
-curseforge only mods (0.7v)
+curseforge only mods (0.9v)
 Ars Zero,
 Ars Elemental,
 CAD Editor,
 AllTheLeaks,
-Connectivity,
 Yammo,
 Cupboard,
 Toms storage star optimized.
